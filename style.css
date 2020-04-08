@@ -348,7 +348,7 @@ header{
 
 /* Tasteful recipes */
 .tasteful-recipes{
-    background: url(/images/tasteful-recipes.jpg) center no-repeat;
+    background: url(images/tasteful-recipes.jpg) center no-repeat;
     background-size: cover;
 }
 
@@ -373,7 +373,7 @@ header{
 
 /* The Perfect Blend */
 .perfect-blend{
-    background: url(/images/perfect-blend.jpg) center no-repeat;
+    background: url(images/perfect-blend.jpg) center no-repeat;
     background-size: cover;
 }
 
